@@ -8,4 +8,7 @@ Installation:
  Open a terminal and cd to this directory.
  run chmod +x install.sh
  and then run ./install.sh
+Installation on Windows (beta):
+ Double click install-windows.bat.
+ Follow the On-Screen intructions.
 vu1tur <to@vu1tur.eu.org> aryan <aryan.chandna@icloud.com>
