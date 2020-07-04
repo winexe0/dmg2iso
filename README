@@ -2,7 +2,10 @@
 DMG2ISO is an Apple's compressed dmg to standard iso convert tool.
 This tool handles z-lib compressed dmg images.
 
-Usage:
+Usage: 
  dmg2iso <image.dmg> <image.iso>
-
+Installation:
+ Open a terminal and cd to this directory.
+ run chmod +x install.sh
+ and then run ./install.sh
 vu1tur <to@vu1tur.eu.org> aryan <aryan.chandna@icloud.com>
