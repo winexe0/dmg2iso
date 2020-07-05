@@ -62,7 +62,7 @@ int findstr(
 int main(int argc, char* argv[]) {
 	printf("dmg2iso v0.2c by vu1tur (vu1tur@gmx.de)\n\n");
 	if (argc != 3)	{
-	    printf("Syntax: dmg2iso <filename.dmg> <filename.iso>\n");
+	    printf("Syntax: dmg2iso example.dmg example.iso\n");
 	    return 0;
 	}
 	FILE *FIN = fopen(argv[1], "rb");
