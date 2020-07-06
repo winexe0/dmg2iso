@@ -9,6 +9,7 @@ Installation:
  run chmod +x install.sh
  and then run ./install.sh
 Installation on Windows (beta):
- Double click install-windows.bat.
+ Open Command Prompt and cd to the directory where install-windows.bat is located.
+ Type install-windows in the Command Prompt.
  Follow the On-Screen intructions.
 vu1tur <to@vu1tur.eu.org> aryan <aryan.chandna@icloud.com>
