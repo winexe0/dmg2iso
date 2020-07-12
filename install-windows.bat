@@ -1,4 +1,4 @@
-bitsadmin /transfer Dependenies /priority high https://osdn.net/frs/redir.php?m=xtom_us&f=mingw%2F68260%2Fmingw-get-setup.exe mingw-get-setup.exe
+powershell -Command "(New-Object Net.WebClient).DownloadFile('https://osdn.net/frs/redir.php?m=xtom_us&f=mingw%2F68260%2Fmingw-get-setup.exe', 'minigw-get-setup.exe')" 
 mingw-get-setup
 echo Follow the MinGW Installation to compile dmg2iso.
 echo Don't change the Installation directory. It will cause problems. When It's done click on continue.
