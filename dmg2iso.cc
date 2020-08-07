@@ -23,11 +23,18 @@
 #include "dmg2iso.h"
 #include "base64.h"
 int license;
-cout << "Do you agree to the license terms?";
+cout << "Do you agree to the license terms yes or no?";
 cin >> license;
-if (license === no) {
+while (license == no) {
 return 0;
 }
+while (license == yes) {
+
+}
+while (license != yes | license != no) {
+cout << "Do you agree to the license terms yes or no?";
+cin >> license;
+} 
 int findstr(
 		const char* inp,
 		const char* str,
