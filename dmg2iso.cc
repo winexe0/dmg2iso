@@ -22,7 +22,12 @@
 #include <string.h>
 #include "dmg2iso.h"
 #include "base64.h"
-
+int license;
+cout << "Do you agree to the license terms?";
+cin >> license;
+if (license === no) {
+return 0;
+}
 int findstr(
 		const char* inp,
 		const char* str,
