@@ -1,7 +1,6 @@
 /*
  *	DMG2ISO Installer for Windows
  *  install-windows.cs
- *
  *	Copyright (c) 2020 Aryan <aryan.chandna@icloud.com>
  *	This program is free software; you can redistribute it and/or
  *      modify it under the terms of the GNU General Public License 
