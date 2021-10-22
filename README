@@ -5,6 +5,7 @@ This tool handles z-lib compressed dmg images.
 Usage: 
  dmg2iso <image.dmg> <image.iso>
 Installation:
+Note: This requires gcc g++ zlib1g-dev libbz2-dev to be installed.
  Open a terminal and cd to this directory.
  run chmod +x install.sh
  and then run ./install.sh
